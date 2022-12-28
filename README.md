@@ -2,7 +2,7 @@
 
 #### Мои навыки:
 * Автоматизированное тестирование веб-интерфейсов на Java с использованием Selenide. [Посмотреть дипломную работу.](https://github.com/albinamv/Netology-QA-Diploma)
-* Ручное тестирование, написание тестовых сценариев
+* Ручное тестирование веб-приложений, написание тест-кейсов. [Посмотреть работы по ручному тестированию.](https://github.com/albinamv/Netology-Manual_testing)
 * Написание баг-репортов. [Примеры из дипломной работы.](https://github.com/albinamv/Netology-QA-Diploma/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 #### Пройденные обучения:
